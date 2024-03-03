@@ -1,0 +1,1 @@
+After completing my first week of CS50, I've been working on several Scratch projects. Drawing inspiration from previously created projects, I've utilized Scratch to visualize programming concepts. These projects have provided me with a hands-on understanding of how programming works.
